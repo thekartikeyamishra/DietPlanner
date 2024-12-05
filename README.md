@@ -42,8 +42,8 @@ Follow these steps to run the project locally:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/personalized-diet-planner.git
-cd personalized-diet-planner
+git clone https://github.com/thekartikeyamishra/DietPlanner.git
+cd DietPlanner
 ```
 
 ### Set Up Virtual Environment (Optional but Recommended)
